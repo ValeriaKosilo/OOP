@@ -3,4 +3,3 @@ World!
 LALALA!
 
 Hello!
-World!
